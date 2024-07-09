@@ -4,6 +4,10 @@
     object-fit: cover;
 }
 
+.social-icons img{
+    height: 3rem;
+}
+
 .navbar-brand img{
     height: 3rem;
 }
