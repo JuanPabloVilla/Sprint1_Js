@@ -15,3 +15,7 @@
 header, footer{
     min-height: 6vh;
 }
+
+#containerPast img , #container img{
+    height: 22vh;
+}
